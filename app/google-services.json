@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1087636330330",
+    "firebase_url": "https://qkbooking-3c3af-default-rtdb.firebaseio.com",
+    "project_id": "qkbooking-3c3af",
+    "storage_bucket": "qkbooking-3c3af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087636330330:android:daeb7fae51737fcfbf4563",
+        "android_client_info": {
+          "package_name": "com.example.qkbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZjOSyjiXYMWjSGg7nQpLlTeYSKKUcM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
